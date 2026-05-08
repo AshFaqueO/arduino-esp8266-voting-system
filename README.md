@@ -7,8 +7,9 @@
 ## Project Report
 [Click here to read the full Project Report (PDF)]([Conference-template-A4.pdf](Project_Report.pdf))
 
+### Physical Prototype
 ![Physical Prototype](circuit_diagram/project.png) 
-
+### Project Circuit Diagram
 ![Project Circuit Diagram](circuit_diagram/circuit_design.png)
 
 ## Overview
